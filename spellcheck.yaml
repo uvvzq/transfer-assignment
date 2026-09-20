@@ -1,0 +1,6 @@
+matrix:
+  - name: Markdown
+    sources:
+      - "**/*.md"
+    aspell:
+      lang: en
